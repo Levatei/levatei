@@ -1,6 +1,9 @@
 <img src = "githubanner.png"/>
 
 <p align="center">
+  <a href="https://github.com/Levatei/latex-cv/tree/master/pdf" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

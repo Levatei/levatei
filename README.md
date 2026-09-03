@@ -49,7 +49,7 @@
 
 <br/>
 
-<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Soft /em></h2>
+<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Soft </em></h2>
 # Telethon
 
 * 🔐 [telethon_session_creator](https://github.com/Levatei/telethon_session_creator) — Telegram authorization for Telethon scripts.

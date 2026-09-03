@@ -50,7 +50,6 @@
 <br/>
 
 <h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Soft </em></h2>
-# Telethon
 
 * 🔐 [telethon_session_creator](https://github.com/Levatei/telethon_session_creator) — Telegram authorization for Telethon scripts.
 * 🔄 [telegram_ressender_chats](https://github.com/Levatei/telegram_ressender_chats) — Automatic forwarding of your messages to chats and channels.

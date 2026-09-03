@@ -49,6 +49,14 @@
 
 <br/>
 
+<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Soft /em></h2>
+# Telethon
+
+* 🔐 [telethon_session_creator](https://github.com/Levatei/telethon_session_creator) — Telegram authorization for Telethon scripts.
+* 🔄 [telegram_ressender_chats](https://github.com/Levatei/telegram_ressender_chats) — Automatic forwarding of your messages to chats and channels.
+* 📈 [telegram_scraper_solana_ca](https://github.com/Levatei/telegram_scraper_for_solana_ca) — Telegram pump keyword monitor.
+* 🤖 [cryptobot_auto_claim](https://github.com/Levatei/autoclaim_voucher_cryptobot) — Telegram Cryptobot Auto Claim.
+
 <h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levatei&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>

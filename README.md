@@ -54,6 +54,7 @@
 * 🔐 [telethon_session_creator](https://github.com/Levatei/telethon_session_creator) — Telegram authorization for Telethon scripts.
 * 🔄 [telegram_ressender_chats](https://github.com/Levatei/telegram_ressender_chats) — Automatic forwarding of your messages to chats and channels.
 * 📈 [telegram_scraper_solana_ca](https://github.com/Levatei/telegram_scraper_for_solana_ca) — Telegram pump keyword monitor.
+* 📉 [telegram_scraper ether ca](https://github.com/Levatei/evm-ca-scrapper) — Telegram 0x... keyword monitor.
 * 🤖 [cryptobot_auto_claim](https://github.com/Levatei/autoclaim_voucher_cryptobot) — Telegram Cryptobot Auto Claim.
 
 <h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
